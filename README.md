@@ -1,4 +1,4 @@
-Title of the project 1: “Sales Data Analysis”
+Title of the project: “Sales Data Analysis”
  
 Purpose: Analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making.
 Description: This project consists of large sales dataset to extract valuable insights. To explore sales trends over time, identification of the best-selling products, calculation of revenue metrics such as total sales and profit margins 
